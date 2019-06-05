@@ -127,5 +127,9 @@ footer{
   border-top 8px;
    border-top-style: solid;
     border-top-color: #4aaaa5;
-  text-align: center
+  text-align: center;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #dddddd;
+  padding-bottom: 0px;
+
 }
